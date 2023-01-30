@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: petshop
-        image: vnom1985/myweb1
+        image: raginiswamy/myweb
         ports:
-        - containerPort: 80
+        - containerPort: 8898
